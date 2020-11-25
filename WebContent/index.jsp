@@ -7,6 +7,7 @@
 <title>index.jsp</title>
 </head>
 <body>
-    <h1>김유경</h1>
+    <h1>김유경1</h1>
+    <h1>김유경2</h1>
 </body>
 </html>
